@@ -1,0 +1,169 @@
+{
+  "arch": "x86_64",
+  "build": "py38h96a0964_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "/Users/thetigur/opt/anaconda3/pkgs/markupsafe-2.0.1-py38h96a0964_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/LICENSE.rst",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/METADATA",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/RECORD",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/WHEEL",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/markupsafe/__init__.py",
+    "lib/python3.8/site-packages/markupsafe/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/markupsafe/__pycache__/_native.cpython-38.pyc",
+    "lib/python3.8/site-packages/markupsafe/_native.py",
+    "lib/python3.8/site-packages/markupsafe/_speedups.c",
+    "lib/python3.8/site-packages/markupsafe/_speedups.cpython-38-darwin.so",
+    "lib/python3.8/site-packages/markupsafe/_speedups.pyi",
+    "lib/python3.8/site-packages/markupsafe/py.typed"
+  ],
+  "fn": "markupsafe-2.0.1-py38h96a0964_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/thetigur/opt/anaconda3/pkgs/markupsafe-2.0.1-py38h96a0964_0",
+    "type": 1
+  },
+  "md5": "8faa70041542bf72f166f87a83ba0af2",
+  "name": "markupsafe",
+  "package_tarball_full_path": "/Users/thetigur/opt/anaconda3/pkgs/markupsafe-2.0.1-py38h96a0964_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/LICENSE.rst",
+        "path_type": "hardlink",
+        "sha256": "489a8e1108509ed98a37bb983e11e0f7e1d31f0bd8f99a79c8448e7ff37d07ea",
+        "sha256_in_prefix": "489a8e1108509ed98a37bb983e11e0f7e1d31f0bd8f99a79c8448e7ff37d07ea",
+        "size_in_bytes": 1475
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1663e9c4175aa820a317e5caaa8c5e133a80ce17ad427ae4912b1ddd5dd7f897",
+        "sha256_in_prefix": "1663e9c4175aa820a317e5caaa8c5e133a80ce17ad427ae4912b1ddd5dd7f897",
+        "size_in_bytes": 3211
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f23ca9b049ae1ba9d2b1cbc6e2333ef8500bf26438b0203a3918efa3da8641b4",
+        "sha256_in_prefix": "f23ca9b049ae1ba9d2b1cbc6e2333ef8500bf26438b0203a3918efa3da8641b4",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "440e23bb7d84587a4ef86d418714d0dc0c174168e79ebcd81a433db24a0deff2",
+        "sha256_in_prefix": "440e23bb7d84587a4ef86d418714d0dc0c174168e79ebcd81a433db24a0deff2",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "73d1cd2737b50ff5df321a842d9792b0182df981b3a8502a41f86fedb9a9d30e",
+        "sha256_in_prefix": "73d1cd2737b50ff5df321a842d9792b0182df981b3a8502a41f86fedb9a9d30e",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "lib/python3.8/site-packages/MarkupSafe-2.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ab2d0f9637b9209bafb020637a32728430a310075c0cb2bfd9a81571ec7c67a5",
+        "sha256_in_prefix": "ab2d0f9637b9209bafb020637a32728430a310075c0cb2bfd9a81571ec7c67a5",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f537b3e1422523b27afec41c5052b574a9e24ff6fff1879fa46232609dd2af64",
+        "sha256_in_prefix": "f537b3e1422523b27afec41c5052b574a9e24ff6fff1879fa46232609dd2af64",
+        "size_in_bytes": 8923
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b60ae719ca310492e7e8bf8e67a2bb66a2bdd5e59e7289340731cc7c0f89c050",
+        "sha256_in_prefix": "b60ae719ca310492e7e8bf8e67a2bb66a2bdd5e59e7289340731cc7c0f89c050",
+        "size_in_bytes": 10678
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/__pycache__/_native.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d1bccd86287557f1898b25b7242d2813d472643dd230fe908351fa4b5e05bac",
+        "sha256_in_prefix": "1d1bccd86287557f1898b25b7242d2813d472643dd230fe908351fa4b5e05bac",
+        "size_in_bytes": 2303
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/_native.py",
+        "path_type": "hardlink",
+        "sha256": "19328457e6d6819b928e496130739844753d9340cc7b04dfe6654465f91bba7b",
+        "sha256_in_prefix": "19328457e6d6819b928e496130739844753d9340cc7b04dfe6654465f91bba7b",
+        "size_in_bytes": 1986
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/_speedups.c",
+        "path_type": "hardlink",
+        "sha256": "0830edc1a576d43da762dca99cc433c6fbe9669713bc8b3c399e8a0dad60e2dd",
+        "sha256_in_prefix": "0830edc1a576d43da762dca99cc433c6fbe9669713bc8b3c399e8a0dad60e2dd",
+        "size_in_bytes": 7400
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/_speedups.cpython-38-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/markupsafe_1621455730621/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "f665320ceac95b393fbdb6c09bfa18b2009f7e43c79eaffb373f089efb10b5dd",
+        "sha256_in_prefix": "4c96e245d3e3c4577bbd796b58362b8c8e937a4ac4b9ff2f8e55edc82826bff8",
+        "size_in_bytes": 13964
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/_speedups.pyi",
+        "path_type": "hardlink",
+        "sha256": "bdf302b0e81b01744d2d45e4caeca89c6f2e1162985383c3a8db8c68310b018c",
+        "sha256_in_prefix": "bdf302b0e81b01744d2d45e4caeca89c6f2e1162985383c3a8db8c68310b018c",
+        "size_in_bytes": 229
+      },
+      {
+        "_path": "lib/python3.8/site-packages/markupsafe/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "conda-forge/osx-64::markupsafe==2.0.1=py38h96a0964_0",
+  "sha256": "e9f4c12860da5c18442b6984928a8ff5931195b9654165d32a7eb41c339696b6",
+  "size": 21206,
+  "subdir": "osx-64",
+  "timestamp": 1621455946191,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/markupsafe-2.0.1-py38h96a0964_0.tar.bz2",
+  "version": "2.0.1"
+}

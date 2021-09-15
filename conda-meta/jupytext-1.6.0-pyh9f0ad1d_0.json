@@ -1,0 +1,540 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "markdown-it-py >=0.5.2,<0.6",
+    "nbformat >=4.0.0",
+    "python",
+    "pyyaml",
+    "toml"
+  ],
+  "extracted_package_dir": "/Users/thetigur/opt/anaconda3/pkgs/jupytext-1.6.0-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "etc/jupyter/jupyter_notebook_config.d/jupytext.json",
+    "etc/jupyter/jupyter_server_config.d/jupytext.json",
+    "etc/jupyter/nbconfig/notebook.d/jupytext.json",
+    "share/jupyter/lab/extensions/jupyterlab-jupytext-1.2.1.tgz",
+    "share/jupyter/nbextensions/jupytext/README.md",
+    "share/jupyter/nbextensions/jupytext/index.js",
+    "share/jupyter/nbextensions/jupytext/jupytext.yml",
+    "share/jupyter/nbextensions/jupytext/jupytext_menu.png",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/entry_points.txt",
+    "lib/python3.8/site-packages/jupytext-1.6.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/jupytext/__init__.py",
+    "lib/python3.8/site-packages/jupytext/cell_metadata.py",
+    "lib/python3.8/site-packages/jupytext/cell_reader.py",
+    "lib/python3.8/site-packages/jupytext/cell_to_text.py",
+    "lib/python3.8/site-packages/jupytext/cli.py",
+    "lib/python3.8/site-packages/jupytext/combine.py",
+    "lib/python3.8/site-packages/jupytext/compare.py",
+    "lib/python3.8/site-packages/jupytext/config.py",
+    "lib/python3.8/site-packages/jupytext/contentsmanager.py",
+    "lib/python3.8/site-packages/jupytext/doxygen.py",
+    "lib/python3.8/site-packages/jupytext/formats.py",
+    "lib/python3.8/site-packages/jupytext/header.py",
+    "lib/python3.8/site-packages/jupytext/jupytext.py",
+    "lib/python3.8/site-packages/jupytext/kernels.py",
+    "lib/python3.8/site-packages/jupytext/languages.py",
+    "lib/python3.8/site-packages/jupytext/magics.py",
+    "lib/python3.8/site-packages/jupytext/metadata_filter.py",
+    "lib/python3.8/site-packages/jupytext/myst.py",
+    "lib/python3.8/site-packages/jupytext/nbextension/README.md",
+    "lib/python3.8/site-packages/jupytext/nbextension/index.js",
+    "lib/python3.8/site-packages/jupytext/nbextension/jupytext.yml",
+    "lib/python3.8/site-packages/jupytext/nbextension/jupytext_menu.png",
+    "lib/python3.8/site-packages/jupytext/paired_paths.py",
+    "lib/python3.8/site-packages/jupytext/pairs.py",
+    "lib/python3.8/site-packages/jupytext/pandoc.py",
+    "lib/python3.8/site-packages/jupytext/pep8.py",
+    "lib/python3.8/site-packages/jupytext/reraise.py",
+    "lib/python3.8/site-packages/jupytext/stringparser.py",
+    "lib/python3.8/site-packages/jupytext/version.py",
+    "lib/python3.8/site-packages/jupytext/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/cell_metadata.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/cell_reader.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/cell_to_text.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/cli.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/combine.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/compare.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/config.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/contentsmanager.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/doxygen.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/formats.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/header.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/jupytext.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/kernels.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/languages.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/magics.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/metadata_filter.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/myst.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/paired_paths.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/pairs.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/pandoc.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/pep8.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/reraise.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/stringparser.cpython-38.pyc",
+    "lib/python3.8/site-packages/jupytext/__pycache__/version.cpython-38.pyc",
+    "bin/jupytext"
+  ],
+  "fn": "jupytext-1.6.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/thetigur/opt/anaconda3/pkgs/jupytext-1.6.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "dd0e9e0a7812e4a911bac937e0a7fabb",
+  "name": "jupytext",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/thetigur/opt/anaconda3/pkgs/jupytext-1.6.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/jupyter/jupyter_notebook_config.d/jupytext.json",
+        "path_type": "hardlink",
+        "sha256": "f408ade199240d80cc177972607ccdc9147622b2b501c8a548ac9fd42d202198",
+        "sha256_in_prefix": "f408ade199240d80cc177972607ccdc9147622b2b501c8a548ac9fd42d202198",
+        "size_in_bytes": 85
+      },
+      {
+        "_path": "etc/jupyter/jupyter_server_config.d/jupytext.json",
+        "path_type": "hardlink",
+        "sha256": "f8ba4cfa91b22b716ef3e7b3198a3c7a057b8c3276c45518e2f1bacba9353f8a",
+        "sha256_in_prefix": "f8ba4cfa91b22b716ef3e7b3198a3c7a057b8c3276c45518e2f1bacba9353f8a",
+        "size_in_bytes": 83
+      },
+      {
+        "_path": "etc/jupyter/nbconfig/notebook.d/jupytext.json",
+        "path_type": "hardlink",
+        "sha256": "0aaa72a21a5388fc2ffacb4ba50b71701d8f3af50b61ab215564eec4ded19bda",
+        "sha256_in_prefix": "0aaa72a21a5388fc2ffacb4ba50b71701d8f3af50b61ab215564eec4ded19bda",
+        "size_in_bytes": 58
+      },
+      {
+        "_path": "share/jupyter/lab/extensions/jupyterlab-jupytext-1.2.1.tgz",
+        "path_type": "hardlink",
+        "sha256": "87d08ab27c4276dc8a03237f509681d35a344e861b45c7caba7c80bd49c701c5",
+        "sha256_in_prefix": "87d08ab27c4276dc8a03237f509681d35a344e861b45c7caba7c80bd49c701c5",
+        "size_in_bytes": 5212
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupytext/README.md",
+        "path_type": "hardlink",
+        "sha256": "26be734338b4575ad99b0e341321c0032e17bca52e551df21d2402001e1a57a9",
+        "sha256_in_prefix": "26be734338b4575ad99b0e341321c0032e17bca52e551df21d2402001e1a57a9",
+        "size_in_bytes": 1434
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupytext/index.js",
+        "path_type": "hardlink",
+        "sha256": "2842b1a93fbb7218996defee65c81be158c6cebecc79fdcbe1e19633ca03708f",
+        "sha256_in_prefix": "2842b1a93fbb7218996defee65c81be158c6cebecc79fdcbe1e19633ca03708f",
+        "size_in_bytes": 18827
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupytext/jupytext.yml",
+        "path_type": "hardlink",
+        "sha256": "0834a2c4fe7f527833947db8f80deb5aef93afb74763e272d1c6c57c8377bcba",
+        "sha256_in_prefix": "0834a2c4fe7f527833947db8f80deb5aef93afb74763e272d1c6c57c8377bcba",
+        "size_in_bytes": 221
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupytext/jupytext_menu.png",
+        "path_type": "hardlink",
+        "sha256": "58e079039b8251cea8f2b33f139b24fd87e1b12ae2e1a5e8cddb55c0eeae985d",
+        "sha256_in_prefix": "58e079039b8251cea8f2b33f139b24fd87e1b12ae2e1a5e8cddb55c0eeae985d",
+        "size_in_bytes": 101629
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "224ccdce738114a48f36316c285bc443e846c1e2d6e33cc4903c843ed612488c",
+        "sha256_in_prefix": "224ccdce738114a48f36316c285bc443e846c1e2d6e33cc4903c843ed612488c",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4676d57f4cb38f8704afcefcbc958a3dc452c242f494ca1831627efee013222d",
+        "sha256_in_prefix": "4676d57f4cb38f8704afcefcbc958a3dc452c242f494ca1831627efee013222d",
+        "size_in_bytes": 11389
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "269ff40c3f26e87f1fbfd7aed60c8169a2f7744c48f28b10cfd5dd3d385922b3",
+        "sha256_in_prefix": "269ff40c3f26e87f1fbfd7aed60c8169a2f7744c48f28b10cfd5dd3d385922b3",
+        "size_in_bytes": 5299
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e620087ef9c3ff8a314f2c361e593a64666a9dfdd315c70cda70984f34dfd27f",
+        "sha256_in_prefix": "e620087ef9c3ff8a314f2c361e593a64666a9dfdd315c70cda70984f34dfd27f",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "1b26e6549bedcb13adae20e1330e7bf28d7e587b54ae7cf3d426a1504c35b991",
+        "sha256_in_prefix": "1b26e6549bedcb13adae20e1330e7bf28d7e587b54ae7cf3d426a1504c35b991",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "site-packages/jupytext-1.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "999f5e6c12ac900aac8fe17ac4b9ebd7ac6bbe26e184cb1509de47ae40b223b5",
+        "sha256_in_prefix": "999f5e6c12ac900aac8fe17ac4b9ebd7ac6bbe26e184cb1509de47ae40b223b5",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/jupytext/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f5f56111b3153de7c95bc09753d1b808c1b454d48660d7fe8b41e80d03e35289",
+        "sha256_in_prefix": "f5f56111b3153de7c95bc09753d1b808c1b454d48660d7fe8b41e80d03e35289",
+        "size_in_bytes": 3139
+      },
+      {
+        "_path": "site-packages/jupytext/cell_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "593ca2eb523be2b89caf5557cde10c528b86a7a7d74dac6822bc14bc690c7751",
+        "sha256_in_prefix": "593ca2eb523be2b89caf5557cde10c528b86a7a7d74dac6822bc14bc690c7751",
+        "size_in_bytes": 17169
+      },
+      {
+        "_path": "site-packages/jupytext/cell_reader.py",
+        "path_type": "hardlink",
+        "sha256": "d52884699d99e8eb8556fe802afb61e4e023c1c47e32dd538e6e60cb0e377f0e",
+        "sha256_in_prefix": "d52884699d99e8eb8556fe802afb61e4e023c1c47e32dd538e6e60cb0e377f0e",
+        "size_in_bytes": 36539
+      },
+      {
+        "_path": "site-packages/jupytext/cell_to_text.py",
+        "path_type": "hardlink",
+        "sha256": "b3a99d2f78fa0d53b8118be0610d5985979492869b21a191d5882da95ba69846",
+        "sha256_in_prefix": "b3a99d2f78fa0d53b8118be0610d5985979492869b21a191d5882da95ba69846",
+        "size_in_bytes": 19962
+      },
+      {
+        "_path": "site-packages/jupytext/cli.py",
+        "path_type": "hardlink",
+        "sha256": "d5906b75a7a2c1728fa86ecc1c166052fbef1253aa6779b47241886ac4ce0106",
+        "sha256_in_prefix": "d5906b75a7a2c1728fa86ecc1c166052fbef1253aa6779b47241886ac4ce0106",
+        "size_in_bytes": 32554
+      },
+      {
+        "_path": "site-packages/jupytext/combine.py",
+        "path_type": "hardlink",
+        "sha256": "cd84e1a23f847a2231ba36ce89c8fcdc3b903befb5247028d194934fe49fd93a",
+        "sha256_in_prefix": "cd84e1a23f847a2231ba36ce89c8fcdc3b903befb5247028d194934fe49fd93a",
+        "size_in_bytes": 6188
+      },
+      {
+        "_path": "site-packages/jupytext/compare.py",
+        "path_type": "hardlink",
+        "sha256": "872edc12bf4ef2d16499e8cd54f3ea54424a8715eb4741b34267f594870a48f7",
+        "sha256_in_prefix": "872edc12bf4ef2d16499e8cd54f3ea54424a8715eb4741b34267f594870a48f7",
+        "size_in_bytes": 11324
+      },
+      {
+        "_path": "site-packages/jupytext/config.py",
+        "path_type": "hardlink",
+        "sha256": "b348da178a59318f36f3258a97d8462a9cfdec4bc4d9fc4e49f16bbad5371ad4",
+        "sha256_in_prefix": "b348da178a59318f36f3258a97d8462a9cfdec4bc4d9fc4e49f16bbad5371ad4",
+        "size_in_bytes": 12435
+      },
+      {
+        "_path": "site-packages/jupytext/contentsmanager.py",
+        "path_type": "hardlink",
+        "sha256": "c2b7dd9257e54582ad51ee7b0afdc562cbbdf6da9fe1062b2e43faf307d88dff",
+        "sha256_in_prefix": "c2b7dd9257e54582ad51ee7b0afdc562cbbdf6da9fe1062b2e43faf307d88dff",
+        "size_in_bytes": 18515
+      },
+      {
+        "_path": "site-packages/jupytext/doxygen.py",
+        "path_type": "hardlink",
+        "sha256": "3450c801f8f6e1addf9f99c60ced38b7f017afe80d6d26dd13345d639746af51",
+        "sha256_in_prefix": "3450c801f8f6e1addf9f99c60ced38b7f017afe80d6d26dd13345d639746af51",
+        "size_in_bytes": 675
+      },
+      {
+        "_path": "site-packages/jupytext/formats.py",
+        "path_type": "hardlink",
+        "sha256": "3237998a412e6f140e5f33bc001b00370cb55a42d644e4b9bd8473a8167a6225",
+        "sha256_in_prefix": "3237998a412e6f140e5f33bc001b00370cb55a42d644e4b9bd8473a8167a6225",
+        "size_in_bytes": 28150
+      },
+      {
+        "_path": "site-packages/jupytext/header.py",
+        "path_type": "hardlink",
+        "sha256": "39c502683c84b147446f72d6a4851086da53a222d61f2a823b0be1506c937469",
+        "sha256_in_prefix": "39c502683c84b147446f72d6a4851086da53a222d61f2a823b0be1506c937469",
+        "size_in_bytes": 8407
+      },
+      {
+        "_path": "site-packages/jupytext/jupytext.py",
+        "path_type": "hardlink",
+        "sha256": "744bd58273a8a1b17dd97e50889f80d77543361c6b199edb8730e7d614e05992",
+        "sha256_in_prefix": "744bd58273a8a1b17dd97e50889f80d77543361c6b199edb8730e7d614e05992",
+        "size_in_bytes": 19025
+      },
+      {
+        "_path": "site-packages/jupytext/kernels.py",
+        "path_type": "hardlink",
+        "sha256": "9e8030cd740098aea7cd02cbabe2025a0cd8bd30837b7a37616f5f7fa675e53f",
+        "sha256_in_prefix": "9e8030cd740098aea7cd02cbabe2025a0cd8bd30837b7a37616f5f7fa675e53f",
+        "size_in_bytes": 2602
+      },
+      {
+        "_path": "site-packages/jupytext/languages.py",
+        "path_type": "hardlink",
+        "sha256": "5098bc5c661a7bbc246ddf3fb73775070397d9f80addfe4bc4dbe6ff77991f62",
+        "sha256_in_prefix": "5098bc5c661a7bbc246ddf3fb73775070397d9f80addfe4bc4dbe6ff77991f62",
+        "size_in_bytes": 6651
+      },
+      {
+        "_path": "site-packages/jupytext/magics.py",
+        "path_type": "hardlink",
+        "sha256": "5444bd942947556a1b13b2326d2a753696caaded458f592d02c1706706d3e750",
+        "sha256_in_prefix": "5444bd942947556a1b13b2326d2a753696caaded458f592d02c1706706d3e750",
+        "size_in_bytes": 7004
+      },
+      {
+        "_path": "site-packages/jupytext/metadata_filter.py",
+        "path_type": "hardlink",
+        "sha256": "86fda42ec2e56bc834f6ec4785b010a4e7e4b49b4070500c1b4ee203de354f7f",
+        "sha256_in_prefix": "86fda42ec2e56bc834f6ec4785b010a4e7e4b49b4070500c1b4ee203de354f7f",
+        "size_in_bytes": 7786
+      },
+      {
+        "_path": "site-packages/jupytext/myst.py",
+        "path_type": "hardlink",
+        "sha256": "f9e6088054b5ed972c9077558ba522c819bb21251ec4db3d37818ce770b47030",
+        "sha256_in_prefix": "f9e6088054b5ed972c9077558ba522c819bb21251ec4db3d37818ce770b47030",
+        "size_in_bytes": 14019
+      },
+      {
+        "_path": "site-packages/jupytext/nbextension/README.md",
+        "path_type": "hardlink",
+        "sha256": "26be734338b4575ad99b0e341321c0032e17bca52e551df21d2402001e1a57a9",
+        "sha256_in_prefix": "26be734338b4575ad99b0e341321c0032e17bca52e551df21d2402001e1a57a9",
+        "size_in_bytes": 1434
+      },
+      {
+        "_path": "site-packages/jupytext/nbextension/index.js",
+        "path_type": "hardlink",
+        "sha256": "2842b1a93fbb7218996defee65c81be158c6cebecc79fdcbe1e19633ca03708f",
+        "sha256_in_prefix": "2842b1a93fbb7218996defee65c81be158c6cebecc79fdcbe1e19633ca03708f",
+        "size_in_bytes": 18827
+      },
+      {
+        "_path": "site-packages/jupytext/nbextension/jupytext.yml",
+        "path_type": "hardlink",
+        "sha256": "0834a2c4fe7f527833947db8f80deb5aef93afb74763e272d1c6c57c8377bcba",
+        "sha256_in_prefix": "0834a2c4fe7f527833947db8f80deb5aef93afb74763e272d1c6c57c8377bcba",
+        "size_in_bytes": 221
+      },
+      {
+        "_path": "site-packages/jupytext/nbextension/jupytext_menu.png",
+        "path_type": "hardlink",
+        "sha256": "58e079039b8251cea8f2b33f139b24fd87e1b12ae2e1a5e8cddb55c0eeae985d",
+        "sha256_in_prefix": "58e079039b8251cea8f2b33f139b24fd87e1b12ae2e1a5e8cddb55c0eeae985d",
+        "size_in_bytes": 101629
+      },
+      {
+        "_path": "site-packages/jupytext/paired_paths.py",
+        "path_type": "hardlink",
+        "sha256": "0db8b9d03bcde9e87b89807cdbc76ce60ffef45f98fa7695e0ea89ddc1937a6e",
+        "sha256_in_prefix": "0db8b9d03bcde9e87b89807cdbc76ce60ffef45f98fa7695e0ea89ddc1937a6e",
+        "size_in_bytes": 8706
+      },
+      {
+        "_path": "site-packages/jupytext/pairs.py",
+        "path_type": "hardlink",
+        "sha256": "c72dae3944384b0332dda94b1f3c213823e92a2792b6a58a1de700303d0e3a76",
+        "sha256_in_prefix": "c72dae3944384b0332dda94b1f3c213823e92a2792b6a58a1de700303d0e3a76",
+        "size_in_bytes": 3968
+      },
+      {
+        "_path": "site-packages/jupytext/pandoc.py",
+        "path_type": "hardlink",
+        "sha256": "ed91cfa6cdeb3cf1a3585d4fc6c5784c992e10b826400c9e474f3c1732b6c8f9",
+        "sha256_in_prefix": "ed91cfa6cdeb3cf1a3585d4fc6c5784c992e10b826400c9e474f3c1732b6c8f9",
+        "size_in_bytes": 3043
+      },
+      {
+        "_path": "site-packages/jupytext/pep8.py",
+        "path_type": "hardlink",
+        "sha256": "e85b4198ea7ec1cd86a50e634b53fdfb92213f666dd2e74994c2063963c23317",
+        "sha256_in_prefix": "e85b4198ea7ec1cd86a50e634b53fdfb92213f666dd2e74994c2063963c23317",
+        "size_in_bytes": 2854
+      },
+      {
+        "_path": "site-packages/jupytext/reraise.py",
+        "path_type": "hardlink",
+        "sha256": "80b6a2c9428528348344f1493b7077f0c2bfaf4035ff71c5e5b1ff798e629c0e",
+        "sha256_in_prefix": "80b6a2c9428528348344f1493b7077f0c2bfaf4035ff71c5e5b1ff798e629c0e",
+        "size_in_bytes": 229
+      },
+      {
+        "_path": "site-packages/jupytext/stringparser.py",
+        "path_type": "hardlink",
+        "sha256": "c91c054de0ad90d10ac2fef31867c5746e86e935c520a859d423195f863f412d",
+        "sha256_in_prefix": "c91c054de0ad90d10ac2fef31867c5746e86e935c520a859d423195f863f412d",
+        "size_in_bytes": 2198
+      },
+      {
+        "_path": "site-packages/jupytext/version.py",
+        "path_type": "hardlink",
+        "sha256": "03a3c8bae9ebba91c2287ab2ba7fe6580d8c073b6d3857c35c21c45395242a58",
+        "sha256_in_prefix": "03a3c8bae9ebba91c2287ab2ba7fe6580d8c073b6d3857c35c21c45395242a58",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/cell_metadata.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/cell_reader.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/cell_to_text.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/cli.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/combine.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/compare.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/config.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/contentsmanager.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/doxygen.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/formats.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/header.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/jupytext.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/kernels.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/languages.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/magics.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/metadata_filter.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/myst.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/paired_paths.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/pairs.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/pandoc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/pep8.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/reraise.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/stringparser.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/jupytext/__pycache__/version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/jupytext",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge/noarch::jupytext==1.6.0=pyh9f0ad1d_0",
+  "sha256": "014a61cb4e4cb38ee3cd1fe076ae87194da8874de60dd587153026b9fb936450",
+  "size": 191619,
+  "subdir": "noarch",
+  "timestamp": 1599001440885,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/jupytext-1.6.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "1.6.0"
+}

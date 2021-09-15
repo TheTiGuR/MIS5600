@@ -1,0 +1,44 @@
+{
+  "arch": "x86_64",
+  "build": "h0d85af4_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/thetigur/opt/anaconda3/pkgs/pandoc-2.14.2-h0d85af4_0",
+  "features": "",
+  "files": [
+    "bin/pandoc"
+  ],
+  "fn": "pandoc-2.14.2-h0d85af4_0.tar.bz2",
+  "license": "GPL-2.0",
+  "license_family": "GPL",
+  "link": {
+    "source": "/Users/thetigur/opt/anaconda3/pkgs/pandoc-2.14.2-h0d85af4_0",
+    "type": 1
+  },
+  "md5": "b6f58ad8350fb4b5630debe4f89dea0b",
+  "name": "pandoc",
+  "package_tarball_full_path": "/Users/thetigur/opt/anaconda3/pkgs/pandoc-2.14.2-h0d85af4_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pandoc",
+        "path_type": "hardlink",
+        "sha256": "d6a18eb6065a8c90fe32bf2732478aee8610f40c9213f89a400d673754d9952a",
+        "sha256_in_prefix": "d6a18eb6065a8c90fe32bf2732478aee8610f40c9213f89a400d673754d9952a",
+        "size_in_bytes": 89059792
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "conda-forge/osx-64::pandoc==2.14.2=h0d85af4_0",
+  "sha256": "8669326570fd9eb8b2b227c11516ce72e9f4421c34fea4d7291e193d6a7d184d",
+  "size": 16182355,
+  "subdir": "osx-64",
+  "timestamp": 1629908159235,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/pandoc-2.14.2-h0d85af4_0.tar.bz2",
+  "version": "2.14.2"
+}
